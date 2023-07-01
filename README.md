@@ -23,7 +23,7 @@ This **Unity Project** is featured in the following YouTube video playlist.
 </tr>
 <tr>
 <td>
-<a href="https://www.youtube.com/playlist?list=PL5domiITryHhlCKPSpiGuUt_kQg0nk3Of"><img width="500" src="https://i3.ytimg.com/vi/pXzLXNEW3bk/maxresdefault.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=vIudoRmaUjI&list=PL5domiITryHhlCKPSpiGuUt_kQg0nk3Of&index=5"><img width="500" src="https://img.youtube.com/vi/vIudoRmaUjI/maxresdefault.jpg" /></a>
 </td>
 </tr>
 </table>
