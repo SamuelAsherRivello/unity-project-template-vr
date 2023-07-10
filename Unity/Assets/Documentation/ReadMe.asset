@@ -18,8 +18,8 @@ MonoBehaviour:
   - TextHeading: Welcome
     TextSubheading: 
     TextBody: This is my project. Created from the Unity Project Template
-    LinkName: Github.com/SamuelAsherRivello/unity-project-template
-    LinkUrl: https://github.com/SamuelAsherRivello/unity-project-template
+    LinkName: Github.com/SamuelAsherRivello/unity-project-template-vr
+    LinkUrl: https://github.com/SamuelAsherRivello/unity-project-template-vr
     PingObjectName: 
     PingObjectGuid: 
     MenuItemName: 
