@@ -1,7 +1,13 @@
 
 # Unity Project Template - VR
 
-This repo includes Project Structure Best Practices and C# Coding Standards for Unity.
+This repo includes...
+
+* Project Structure Best Practices from [SamuelAsherRivello/unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template)
+* C# Coding Standards for Unity from [SamuelAsherRivello/unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template)
+* Virtual Reality (VR) from [Meta's Oculus Quest 2](https://developer.oculus.com/documentation/unity/unity-gs-overview/)
+* Custom Demo Scenes
+
 
 <img width="200" src="./Unity/Assets/Documentation/ReadMe/Art/Sprites/ProjectIcon.png" alt="Best Practices">
 
