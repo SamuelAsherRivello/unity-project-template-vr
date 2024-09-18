@@ -1,5 +1,5 @@
 
-# Unity Project Template - VR
+# Unity Project Template - Virtual Reality (VR)
 
 This repo includes...
 
@@ -7,6 +7,10 @@ This repo includes...
 * C# Coding Standards for Unity from [SamuelAsherRivello/unity-project-template](https://github.com/SamuelAsherRivello/unity-project-template)
 * Virtual Reality (VR) from [Meta's Oculus Quest 2](https://developer.oculus.com/documentation/unity/unity-gs-overview/)
 * Custom Demo Scenes
+
+<BR>
+
+<BR>
 
 
 <img width="200" src="./Unity/Assets/Documentation/ReadMe/Art/Sprites/ProjectIcon.png" alt="Best Practices">
@@ -17,7 +21,9 @@ This repo includes...
 1. Open this repo in the Unity Editor
 1. Enjoy
 
----
+<BR>
+
+<BR>
 
 ### Videos
 
@@ -34,7 +40,9 @@ This **Unity Project** is featured in the following YouTube video playlist.
 </tr>
 </table>
 
----
+<BR>
+
+<BR>
 
 ### Features
 
@@ -51,9 +59,9 @@ This project is a living template. It showcases the best practices and coding st
 * Editor Coding 
 * Unit Testing 
 
+<BR>
 
-
----
+<BR>
 
 ### Overview
 
@@ -74,59 +82,35 @@ This project is a living template. It showcases the best practices and coding st
 **Dependencies**
 * `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)
 
-----
+<BR>
 
-More
-=============
+<BR>
 
-### A. Unity — Project Structure Best Practices
+## Resources
 
+Here are more from Samuel Asher Rivello.
 
-Employing an organized project structure is beneficial to your project and your team.
+**Portfolio**
 
-Scope:
-* Folder Structure
-* Folder Naming
-* File Naming
+- [SamuelAsherRivello.com/virtual-reality](SamuelAsherRivello.com/virtual-reality) - AR/VR/XR
+- [SamuelAsherRivello.com/best-practices](https://www.SamuelAsherRivello.com/best-practices) - Proven approaches
 
-Benefits:
+**Medium Articles**
 
-* Consistency — The project structure has consistency in presentation regardless of team location, spoken language, or individual programmers.
-* Maintenance — Consistent project structure will aid readability. Readability helps new and existing programmers revisit the code base for fixes and improvements.
-* Communication — Developers more implicitly understand each other in written and verbal communication.
+- [XR For Unity — 1 — Virtual Reality](https://samuel-asher-rivello.medium.com/xr-for-unity-1-virtual-reality-12dc0fe1d410)
+- [XR For Unity — 2 — Augumented Reality](https://samuel-asher-rivello.medium.com/xr-for-unity-2-augmented-reality-144385b76a64)
+- [XR For Unity — 3 — Mixed Reality](https://samuel-asher-rivello.medium.com/xr-for-unity-3-mixed-reality-11ba79e1c5b2)
+- [Best Practices — 1 — Unity Project Structure](https://samuel-asher-rivello.medium.com/unity-project-structure-a694792cefed)
+- [Best Practices — 2 — Unity C# Coding Standards](https://samuel-asher-rivello.medium.com/coding-standards-in-c-39aefee92db8)
+- [Best Practices — 3 — Unity Overview](https://samuel-asher-rivello.medium.com/best-practices-3-unity-8abcce214ddc)
+- [Best Practices — 4 — MVC Architecture For Unity](https://samuel-asher-rivello.medium.com/unleashing-the-power-of-mvc-architecture-in-unity-a-journey-of-structured-game-development-492ef9c53817)
+- [Best Practices — 5 — Unit Testing For Unity](https://samuel-asher-rivello.medium.com/unity-testing-for-unity-elevating-your-game-development-skills-eb76fc0bbea3)
 
-### B. Coding Standards
+<BR>
 
-Coding standards define a programming style. 
+<BR>
 
-See the repo's <a href="https://github.com/SamuelAsherRivello/unity-project-template/tree/master/Unity/Assets/Scripts/Runtime/RMC/Templates">C# Templates</a> for more info.
-
-Employing organized coding standards is beneficial to your project and your team.
-
-Scope:
-
-* Naming Conventions
-* File Naming and Organization
-* Formatting and Indentation
-* Comments and Documentation
-* Classes, Functions and Interfaces
-* Testing
-
-Benefits:
-
-* Code Integration
-* Team Member Integration
-* Maintenance
-* Uniform Problem Solving
-* Minimizes Communication
-* Minimizes Performance Pitfalls
-* Saves Money Due to Less Man Hours 
-
-Resources
-=============
-* Samuel Asher Rivello's Medium Article - <a href="https://sam-16930.medium.com/unity-project-structure-a694792cefed">Unity — Project Structure Best Practices</a>
-* Samuel Asher Rivello's Medium Article - <a href="https://sam-16930.medium.com/coding-standards-in-c-39aefee92db8">Unity — C# Coding Standards</a>
-
+## Credits
 
 Created By
 =============
